@@ -44,8 +44,6 @@ sales_performance_project/
 ### A. Tren Penjualan Bulanan
 Grafik ini melacak total omset penjualan bulanan dari Januari hingga Juni 2026.
 
-![Tren Bulanan](visualizations/monthly_sales_performance.png)
-
 * **Analisis**:
   * Penjualan melonjak tajam mulai Februari (**Rp 745,8 Juta**) dan memuncak di Maret (**Rp 913,3 Juta**). Hal ini bertepatan dengan musim belanja Ramadhan dan Lebaran di Indonesia.
   * Bulan April mengalami penurunan drastis ke **Rp 621,4 Juta** karena siklus konsumsi yang menurun pasca-Hari Raya.
@@ -54,8 +52,6 @@ Grafik ini melacak total omset penjualan bulanan dari Januari hingga Juni 2026.
 
 ### B. Kontribusi Wilayah & Saluran Penjualan (Offline vs Online)
 Grafik ini membandingkan total penjualan di 7 wilayah operasional, dipecah berdasarkan saluran pembelian.
-
-![Wilayah & Channel](visualizations/sales_by_region_channel.png)
 
 * **Analisis**:
   * **Jabodetabek** adalah kontributor utama pendapatan dengan total omset mencapai **Rp 1,87 Miliar**, diikuti Jawa Barat (**Rp 837 Juta**) dan Jawa Timur (**Rp 529 Juta**).
@@ -66,8 +62,6 @@ Grafik ini membandingkan total penjualan di 7 wilayah operasional, dipecah berda
 ### C. Metode Pembayaran Terpopuler
 Grafik horizontal ini menunjukkan distribusi nilai transaksi berdasarkan metode pembayaran yang digunakan pelanggan.
 
-![Metode Pembayaran](visualizations/payment_method_distribution.png)
-
 * **Analisis**:
   * Metode pembayaran **Cash** masih memimpin dengan total **Rp 1,31 Miliar**, karena tingginya transaksi belanja offline di supermarket.
   * Namun, **GoPay** berada di posisi kedua dengan kontribusi luar biasa sebesar **Rp 1,15 Miliar**, disusul **Transfer BCA** (Rp 604 Juta) dan **OVO** (Rp 592 Juta). Ini menandakan integrasi pembayaran non-tunai (Qris/E-wallet) sangat diterima oleh pelanggan Nusantara Retail Group.
@@ -76,8 +70,6 @@ Grafik horizontal ini menunjukkan distribusi nilai transaksi berdasarkan metode 
 
 ### D. Segmentasi Pelanggan RFM
 Pelanggan diklasifikasikan menggunakan kuantil dari nilai Recency (R), Frequency (F), dan Monetary (M).
-
-![Segmen RFM](visualizations/rfm_customer_segments.png)
 
 * **Analisis**:
   * **Hibernating (255 pelanggan)**: Segmen terbesar. Mereka adalah pelanggan yang sudah lama tidak belanja dan frekuensinya sedikit. Perlu dianalisis apakah ada kendala layanan atau kompetitor baru.
